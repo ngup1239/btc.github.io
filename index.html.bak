@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
   <head>
-    <title>Retail Corporate Category Bootstrap responsive Website Template | Home :: w3layouts</title>
+    <title>Blockchain Minds</title>
     <!--meta tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -47,7 +47,7 @@
           <!--//navigation section -->
           <nav class="navbar navbar-expand-lg navbar-light">
             <div class="hedder-up">
-              <h1><a class="navbar-brand" href="index.html">Retail-<span class="fab fa-staylinked"></span></a></h1>
+              <h1><a class="navbar-brand" href="index.html">Blockchain Minds-<span class="fab fa-staylinked"></span></a></h1>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -94,10 +94,10 @@
               <div class="slider-img one-img">
                 <div class="container">
                   <div class="slider-info text-center">
-                    <h4>Big Think</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
+                    <h4>Blockchain solutions</h4>
+                    <p>Our blockchain platform can help transform the business lifecycle for digital ecosystems, while promoting trust, transparency and efficiency.</p>
                     <div class="outs_more-buttn">
-                      <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a>
+ <!--                     <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a> -->
                     </div>
                   </div>
                 </div>
@@ -107,10 +107,10 @@
               <div class="slider-img two-img">
                 <div class="container">
                   <div class="slider-info text-center">
-                    <h4>Profit Way</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
+                    <h4>Blockchain For Everyone</h4>
+                    <p>The technology has the potential to change the dynamics of system integrations not only for businesses, but for governments and academia as well. Instead of suppliers having to integrate to customized systems in large enterprises and organizations, they can instead interact with standardized apps and tokens on the public blockchain network, protected by privacy technology.</p>
                     <div class="outs_more-buttn">
-                      <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a>
+ <!--                     <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a>  -->	
                     </div>
                   </div>
                 </div>
@@ -120,10 +120,10 @@
               <div class="slider-img three-img">
                 <div class="container">
                   <div class="slider-info text-center">
-                    <h4>Creative Way</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et</p>
+                    <h4>Blockchain for HR</h4>
+                    <p>Blockchain technology is perhaps best known for its role in safeguarding the cryptocurrency infrastructure (e.g. Bitcoin), making financial transactions secure without the need for a bank or a middleman. But the technology is eyeing a landing in the human resources space, which will inevitably change the way that HR professionals handle large amounts of sensitive employee data and deploy various HR processes.</p>
                     <div class="outs_more-buttn">
-                      <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a>
+ <!--                     <a href="#" data-toggle="modal" data-target="#exampleModalLive">Read More</a>  -->
                     </div>
                   </div>
                 </div>
@@ -146,31 +146,32 @@
           <h3 class="title mb-2"> About Us</h3>
           <div class="big-title"><span>A</span></div>
           <div class="line-w3ls-title text-center mb-md-4 mb-sm-3 mb-3"></div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br>tempor incididunt ut labore et</p>
+          <p>We follow communitity based approad with a vision to create an Employee Service Records</p>
         </div>
         <div class="row effcet-about">
           <div class="col-lg-3 col-md-6 col-sm-6 jst-about">
-            <h4 class="mb-3">Market Growth</h4>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            <p>sed do eiusmod Lorem ipsum dolor sit amet,consectetur</p>
+            <h4 class="mb-3">Strengthen security for sensitive personal</h4>
+            <p class="mb-2">HR teams are tasked with conducting some of the highest-volume financial transactions for an organization as well as handling sensitive employee data related to pay, healthcare, finance, banking, disciplinary records, performance records, expense reimbursement, and more</p>
+			<p>All of the data an HR department maintains is at risk of being exploited and, as more companies face data breaches, it is of utmost importance that safeguards are in place to prevent fraud and maintain security.</p>
+			<p>Blockchain’s role as a game-changer for human resources is defined by its security capabilities. In fact, blockchain has proven itself to be so effective for risk management and software security that even aerospace and defense giant Lockheed Martin is using it.</p>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 jst-about">
-            <h4 class="mb-3">Retail Market</h4>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            <p>sed do eiusmod Lorem ipsum dolor sit amet,consectetur</p>
+            <h4 class="mb-3">Improve recruiting processes, verification of job qualifications & background checks</h4>
+            <p class="mb-2">Whether we call it lying, embellishing or stretching the truth about work history, we know that sometimes what you see on a candidate’s CV is not always what you’re getting. A reported 75% of HR managers have identified a lie on a CV. With nearly 20% of hiring managers also reporting they spend less than 30 seconds looking at a CV, it is impossible to know how many fabrications actually go undetected. </p>
+            <p>Perhaps the greatest advantage that blockchain can offer is trust in the veracity of its data. In current recruitment systems, it is difficult to determine the accuracy of a potential employee’s work and education history. Even the most seasoned recruiters can be deceived by a candidate’s falsified employment history and education credentials.</p>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 jst-about">
-            <h4 class="mb-3">Goods Profit</h4>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            <p>sed do eiusmod Lorem ipsum dolor sit amet,consectetur</p>
+            <h4 class="mb-3">Streamline payroll, contractor payments & vendor tracking.</h4>
+            <p class="mb-2">One of the most common use cases for blockchain HR involves a company’s largest expense and the process that employees appreciate the most: payroll. Blockchain has the power to replace many of the manual tasks and eliminate time lags within current payroll systems. Blockchain also offers ‘smart contract’ solutions that allow a company to automate and secure payments to contractors and vendors. </p>
+            <p>Global companies in particular could enjoy benefits with blockchain when it comes to issuing cross-border payroll to employees in overseas jurisdictions. Blockchain automatically sifts through exchange rates and communicates with intermediary banks so employees can be paid quickly—and at a lower cost to employers in the long term.</p>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 jst-about">
-            <h4 class="mb-3">Market Plans</h4>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            <p>sed do eiusmod Lorem ipsum dolor sit amet,consectetur</p>
+            <h4 class="mb-3">Automate taxes & mitigate the strain of audits.</h4>
+            <p class="mb-2">Taxation plays a critical role in the life of a business or an individual. For HR professionals, constantly evolving tax laws and regulations across jurisdictions ensure they often have their hands full properly issuing taxes. Payroll taxes are then only further complicated by other factors like bonuses, commissions, overtime pay, back pay, accumulated sick time pay, human resources expenses, and beyond. </p>
+            <p>Blockchain’s keen ability to record and update employee tax considerations and provisions automatically is catching the attention of the HR industry. By wielding the capability to streamline and secure the taxation process, it is likely that blockchain-powered platforms will become the record of choice for HR departments around the globe.</p>
           </div>
         </div>
-        <div class="about-States-list text-center mt-lg-5 mt-md-4 mt-3">
+        <!--<div class="about-States-list text-center mt-lg-5 mt-md-4 mt-3">
           <img src="images/ab1.png" alt="" class="img-fluid">
         </div>
         <!-- //About-one -->
@@ -223,13 +224,13 @@
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
         <div class="text-center">
           <div class="commant-right">
-            <h2 class="mb-3">EVERYTHING IS POSSIBLE WITH US</h2>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
-            <p class="mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
+            <h2 class="mb-3">Enhance employee experience with better access to benefit packages & a dynamic expense reimbursement system.</h2>
+            <p class="mb-2">HR and employees alike will appreciate blockchain’s ability to expedite access to benefits packages. Once employers outline the terms of employment prior to hiring, it is HR’s responsibility to uphold the conditions in the contract. The traditional model requires manual implementation of provisions that might impact an employee’s benefits package, running risks of errors or preventing proper delivery of benefits. </p>
+            <p class="mb-2">Inputting these terms into blockchain technology instead allows HR to seamlessly deliver upon these benefits. For example, if a company outlines that an employee’s healthcare benefits are due to kick in after a 90 day waiting period, the blockchain technology can be engineered to implement those benefits at the right time. Again, this is coded through the same IFTTT language that governs smart contracts. </p>
           </div>
-          <div class="button mt-lg-5 mt-md-4 mt-3">
+          <!--<div class="button mt-lg-5 mt-md-4 mt-3">
             <a href="#small-dialog1" class="play-icon popup-with-zoom-anim"><span class="far fa-play-circle"></span></a>			
-          </div>
+          </div>-->
           <div id="small-dialog1" class="mfp-hide">
             <div class="agileits_modal_body">
 			  <iframe src="https://player.vimeo.com/video/135480452" allowfullscreen></iframe>
@@ -240,7 +241,7 @@
     </section>
     <!--//infomatter-->
     <!--service-->	
-    <section class="service py-lg-4 py-md-3 py-sm-3 py-3" id="service">
+   <!-- <section class="service py-lg-4 py-md-3 py-sm-3 py-3" id="service">
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
         <div class="title-sub text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
           <h3 class="title mb-2">Our Services</h3>
@@ -335,10 +336,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
     <!--//service-->
     <!--clients-->
-    <section class="client py-lg-4 py-md-3 py-sm-3 py-3" id="client">
+   <!-- <section class="client py-lg-4 py-md-3 py-sm-3 py-3" id="client">
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
         <div class="title-sub text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
           <h3 class="clr title mb-2">Our Clients</h3>
@@ -402,12 +403,12 @@
           <a href="#" class="flex-prev">Prev</a>
           <div class="custom-controls-container"></div>
           <a href="#" class="flex-next">Next</a>
-          </div>-->
+          </div>
       </div>
-    </section>
+    </section>-->
     <!--//clients-->
     <!--portfolio -->
-    <section class="gallery py-lg-4 py-md-3 py-sm-3 py-3" id="gallery">
+    <!--<section class="gallery py-lg-4 py-md-3 py-sm-3 py-3" id="gallery">
       <div class="container py-lg-5 py-md-5 py-sm-4 py-3">
         <div class="title-sub text-center mb-lg-5 mb-md-4 mb-sm-4 mb-3">
           <h3 class="title mb-2">Our Projects</h3>
@@ -475,7 +476,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
     <!-- //gallery -->
     <!-- team -->
     <section class="team  py-lg-4 py-md-3 py-sm-3 py-3" id="team">
@@ -484,7 +485,7 @@
           <h3 class="title mb-2 clr">Our Team</h3>
           <div class="big-title"><span>T</span></div>
           <div class="line-w3ls-title text-center mb-md-4 mb-sm-3 mb-3"></div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br>tempor incididunt ut labore et</p>
+          <p>As it is a community driven Projeect, we have multiple resources from various background and focussing on a single mission to create Blockchain usefull for users across the Globe</p>
         </div>
         <div class="row mb-lg-4 mb-md-3 mb-3">
           <div class="col-lg-6 col-md-6 clients-w3layouts-row">
@@ -503,9 +504,9 @@
                         <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
                       </ul>
                     </div>
-                    <h4 class="mt-3 mb-2">Rose Will 
+                    <h4 class="mt-3 mb-2">Rajagopal Baskaran 
                     </h4>
-                    <span class="wls-client-title">Designer At Behance</span>
+                    <span class="wls-client-title">Manager - Tech Team</span>
                   </div>
                 </div>
               </div>
@@ -527,9 +528,9 @@
                         <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
                       </ul>
                     </div>
-                    <h4 class="mt-3 mb-2">Max Kent 
+                    <h4 class="mt-3 mb-2">Shwetav Sharad 
                     </h4>
-                    <span class="wls-client-title">founder of Instagram</span>
+                    <span class="wls-client-title">Project Manager</span>
                   </div>
                 </div>
               </div>
@@ -553,9 +554,9 @@
                         <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
                       </ul>
                     </div>
-                    <h4 class="mt-3 mb-2">Deo Kent 
+                    <h4 class="mt-3 mb-2">Tony Joseph 
                     </h4>
-                    <span class="wls-client-title">Marketing Head</span>
+                    <span class="wls-client-title">Social Media Head</span>
                   </div>
                 </div>
               </div>
@@ -577,9 +578,9 @@
                         <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
                       </ul>
                     </div>
-                    <h4 class="mt-3 mb-2">Willy Will 
+                    <h4 class="mt-3 mb-2">Vishal  
                     </h4>
-                    <span class="wls-client-title">Designer At Behance</span>
+                    <span class="wls-client-title">Finance manager</span>
                   </div>
                 </div>
               </div>
@@ -587,6 +588,7 @@
           </div>
         </div>
       </div>
+	  
     </section>
     <!--//team -->
     <!--contact -->
